@@ -128,4 +128,4 @@ copy mouse position: user.copy_mouse_position()
 # To scroll with a hiss sound, set mouse_enable_hiss_scroll to true in settings.talon
 hiss up: user.hiss_scroll_up()
 hiss down: user.hiss_scroll_down()
-hiss toggle: user.hiss_toggle()
+his toggle: user.hiss_toggle()
