@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: sgt-boi-chonks
+-
+user: /home/alith-opados
+desktop: /home/alith-opados/Desktop
+desk: /home/alith-opados/Desktop
+documents: /home/alith-opados/Documents
+docks: /home/alith-opados/Documents
+downloads: /home/alith-opados/Downloads
+music: /home/alith-opados/Music
+pictures: /home/alith-opados/Pictures
+videos: /home/alith-opados/Videos
+talon home: /home/alith-opados/.talon
+talon recordings: /home/alith-opados/.talon/recordings
+talon user: /home/alith-opados/.talon/user
+home: /home/alith-opados

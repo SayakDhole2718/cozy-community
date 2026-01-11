@@ -216,6 +216,11 @@ class Actions:
         global hiss_scroll_up
         hiss_scroll_up = False
 
+    def hiss_toggle():
+        """Toggle mouse hiss scroll direction"""
+        global hiss_scroll_up
+        hiss_scroll_up = False if hiss_scroll_up is True else True  
+
 
 @ctx.action_class("user")
 class UserActions:
